@@ -1,0 +1,15 @@
+# Required tools for BlackHatRecon
+# Install on Kali Linux or similar with: sudo apt install -y <package>
+whois
+dnsutils  # provides dig, host, nslookup
+nmap
+nikto
+curl
+wafw00f
+xsser
+sqlmap
+traceroute
+sublist3r
+dnsrecon
+tor
+torsocks
